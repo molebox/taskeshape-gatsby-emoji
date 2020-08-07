@@ -1,0 +1,12 @@
+{
+  "name": "takeshape-gatsby-emoji",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "gatsby": "^2.24.36",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "superagent": "^5.3.1"
+  }
+}
